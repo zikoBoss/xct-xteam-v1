@@ -1,7 +1,7 @@
-flask
+Flask
 requests
 protobuf
-protobuf-decoder
+protobuf_decoder
 aiohttp
 pyjwt
 pytz
@@ -9,3 +9,4 @@ psutil
 cfonts
 pycryptodome
 urllib3
+gunicorn
